@@ -17,7 +17,7 @@ a bit too much of an idea --> they might boost the score too much and have too m
 
 ## FEATURES DESCRIPTION 
 
-1. **FILENAME**: An identifier for the dataset entry; this column can be ignored.
+1. **FILENAME**: An identifier for the dataset entry; this column can be ignored.
 2. **URL**: The actual URL of the website.
 3. **URLLength**: The length of the URL.
 4. **Domain**: The domain name extracted from the URL.
